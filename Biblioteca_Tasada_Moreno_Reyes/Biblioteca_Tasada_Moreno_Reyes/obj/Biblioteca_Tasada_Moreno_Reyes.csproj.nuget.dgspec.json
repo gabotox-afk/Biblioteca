@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO tp\\Biblioteca_Tasada_Moreno_Reyes\\Biblioteca_Tasada_Moreno_Reyes\\Biblioteca_Tasada_Moreno_Reyes.csproj": {}
+    "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO_tp\\Biblioteca_Tasada_Moreno_Reyes\\Biblioteca_Tasada_Moreno_Reyes\\Biblioteca_Tasada_Moreno_Reyes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO tp\\Biblioteca_Tasada_Moreno_Reyes\\Biblioteca_Tasada_Moreno_Reyes\\Biblioteca_Tasada_Moreno_Reyes.csproj": {
+    "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO_tp\\Biblioteca_Tasada_Moreno_Reyes\\Biblioteca_Tasada_Moreno_Reyes\\Biblioteca_Tasada_Moreno_Reyes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO tp\\Biblioteca_Tasada_Moreno_Reyes\\Biblioteca_Tasada_Moreno_Reyes\\Biblioteca_Tasada_Moreno_Reyes.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO_tp\\Biblioteca_Tasada_Moreno_Reyes\\Biblioteca_Tasada_Moreno_Reyes\\Biblioteca_Tasada_Moreno_Reyes.csproj",
         "projectName": "Biblioteca_Tasada_Moreno_Reyes",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO tp\\Biblioteca_Tasada_Moreno_Reyes\\Biblioteca_Tasada_Moreno_Reyes\\Biblioteca_Tasada_Moreno_Reyes.csproj",
+        "projectPath": "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO_tp\\Biblioteca_Tasada_Moreno_Reyes\\Biblioteca_Tasada_Moreno_Reyes\\Biblioteca_Tasada_Moreno_Reyes.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO tp\\Biblioteca_Tasada_Moreno_Reyes\\Biblioteca_Tasada_Moreno_Reyes\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO_tp\\Biblioteca_Tasada_Moreno_Reyes\\Biblioteca_Tasada_Moreno_Reyes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
