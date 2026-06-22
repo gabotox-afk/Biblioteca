@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Biblioteca_Tasada_Moreno_Reyes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08ce32dc2167c9707a6a95b47318fb72e28e6426")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13db4a7683a24233a3984365b673a9bba548aff8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Biblioteca_Tasada_Moreno_Reyes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Biblioteca_Tasada_Moreno_Reyes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

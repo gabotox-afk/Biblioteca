@@ -10,12 +10,16 @@ namespace Biblioteca_Tasada_Moreno_Reyes.Modelos
     {
         public int NroSocio { get; set; }
         public string NombreApellido { get; set; }
-        public string? Email { get; set; }
-        public int TipoSocio { get; set; }
+        public string Email { get; set; }
+        public int TipoSocioId { get; set; }
         public int Activo { get; set; }
 
 
         public TipoSocio TipoSocio { get; set; }
+
+
+        public ICollection<Prestamo> Prestamos { get; set; }
+        public ICollection<Reserva> Reservas { get; set; }
 
 
     }

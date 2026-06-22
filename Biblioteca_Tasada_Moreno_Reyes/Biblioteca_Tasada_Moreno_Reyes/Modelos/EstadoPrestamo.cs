@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace Biblioteca_Tasada_Moreno_Reyes.Modelos
 {
-    public class estadoPrestamo
+    public class EstadoPrestamo
     {
-        public int id { get; set;  }
-        public string nombre { get;set;  }
+        public int Id { get; set;  }
+        public string Nombre { get;set;  }
+
+        public ICollection<Prestamo> Prestamos { get; set; } 
+
 
     }
 }

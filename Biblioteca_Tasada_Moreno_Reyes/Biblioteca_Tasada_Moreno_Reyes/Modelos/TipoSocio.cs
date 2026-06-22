@@ -8,12 +8,12 @@ namespace Biblioteca_Tasada_Moreno_Reyes.Modelos
 {
     public class TipoSocio
     {
-        public int id {  get; set; }
-        public string nombre { get; set; }
+        public int Id {  get; set; }
+        public string Nombre { get; set; }
         public int Maxlibros { get; set; } 
         public string DiasPrestamo { get; set; }
-        public double multaPorDia { get; set; }
+        public double MultaPorDia { get; set; }
 
-
+        public ICollection<Socio> Socios { get; set; }
     }
 }

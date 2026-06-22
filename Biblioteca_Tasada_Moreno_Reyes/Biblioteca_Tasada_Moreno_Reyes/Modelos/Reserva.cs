@@ -8,15 +8,18 @@ namespace Biblioteca_Tasada_Moreno_Reyes.Modelos
 {
     public class Reserva
     {
-        public int id {  get; set; }
-        public int Socioid { get; set; }
+        public int Id {  get; set; }
+        public int SocioId { get; set; }
         public string LibroISBN { get; set; }
         public DateTime FechaReserva { get; set; }
-        public int Estadoid { get; set; }
+        public int EstadoId { get; set; }
 
         public Socio Socio { get; set; }
-        public estadoReserva EstadoReserva { get; set; }
+        public EstadoReserva EstadoReserva { get; set; }
         public Libro Libro { get; set; }
+
+
+
 
     }
 }
