@@ -7,7 +7,7 @@
 [Rr]elease/
 
 
-.vs/
+
 .vscode/
 .idea/
 *.user
@@ -29,8 +29,6 @@ Thumbs.db
 *.nuget.props
 *.nuget.targets
 
-
-*.db
 *.db-shm
 *.db-wal
 *.sqlite
