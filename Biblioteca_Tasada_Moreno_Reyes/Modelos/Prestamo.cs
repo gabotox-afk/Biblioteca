@@ -16,6 +16,8 @@ namespace Biblioteca_Tasada_Moreno_Reyes.Modelos
         public DateTime? FechaDevolucion { get; set; }
         public int Renovado { get; set; }
         public int EstadoId{ get; set; }
+        public decimal MultaMonto { get; set; }
+        public int MultaPagada { get; set; }
 
 
         public Socio Socio { get; set; }
