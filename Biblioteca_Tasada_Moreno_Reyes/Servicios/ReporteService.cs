@@ -26,7 +26,7 @@ namespace Biblioteca_Tasada_Moreno_Reyes.Servicios
                 .Include(p => p.Libro)
                 .GroupBy(p => p.Libro.Titulo)
                 .Select(g => new { Titulo = g.Key, Cantidad = g.Count() })
-                .OrderBy(x => x.Cantidad)
+                .OrderByDescending(x => x.Cantidad)
                 .Take(5)
                 .ToList();
 
